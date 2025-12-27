@@ -24,6 +24,12 @@ An interactive Shiny application for comparative analysis of equity returns and 
 Project Repository:
 https://github.com/MaowenDeng/stock_return_risk_analysis/
 
+### Commercial Space & Astronomy Defence Portfolio Analysis (Jupyter Notebook)
+Portfolio analysis of commercial space and defense stocks, including performance metrics, portfolio construction, and visualizations of returns and allocation.
+
+Project Repository:
+https://github.com/MaowenDeng/CSAT_Quant_Portfolio/
+
 ---
 
 ## Author
